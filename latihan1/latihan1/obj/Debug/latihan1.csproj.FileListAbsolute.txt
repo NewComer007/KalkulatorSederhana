@@ -1,0 +1,8 @@
+C:\ARDY\KULIAH\2008\latihan1\latihan1\bin\Debug\latihan1.exe
+C:\ARDY\KULIAH\2008\latihan1\latihan1\bin\Debug\latihan1.pdb
+C:\ARDY\KULIAH\2008\latihan1\latihan1\obj\Debug\ResolveAssemblyReference.cache
+C:\ARDY\KULIAH\2008\latihan1\latihan1\obj\Debug\latihan1.Kalkulator.resources
+C:\ARDY\KULIAH\2008\latihan1\latihan1\obj\Debug\latihan1.Properties.Resources.resources
+C:\ARDY\KULIAH\2008\latihan1\latihan1\obj\Debug\latihan1.csproj.GenerateResource.Cache
+C:\ARDY\KULIAH\2008\latihan1\latihan1\obj\Debug\latihan1.exe
+C:\ARDY\KULIAH\2008\latihan1\latihan1\obj\Debug\latihan1.pdb
